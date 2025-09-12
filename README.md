@@ -15,7 +15,7 @@ A minimal Laravel 11 application stub with OIDC login, organization subaccounts,
 - PHP ^8.2
 - Composer
 - Node.js (for TailwindCSS)
-- Laravel 11
+- Laravel 12
 - Database (SQLite, MySQL, or PostgreSQL)
 
 ## Setup Instructions
